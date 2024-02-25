@@ -4,9 +4,9 @@
 
 **Features:**
 
-- **User Input:** Allow users to input their personal details including age, weight, height, gender, activity level, dietary preferences, and fitness goals.
+- **User Input:** Allow users to input their details including age, weight, height, gender, activity level, dietary preferences, and fitness goals.
 - **Personalized Recommendations:** Provide personalized workout plans and diet recommendations tailored to the user's profile and goals.
-- **Interactive Interface:** Create an interactive chat interface where users can communicate with the chatbot in a conversational manner.
+- **Interactive Interface:** Create an interactive chat interface where users can conversationally communicate with the chatbot.
 - **Dynamic Responses:** Generate dynamic responses based on user queries and inputs, adjusting recommendations as needed.
 - **Educational Content:** Offer educational content about nutrition, exercise techniques, and fitness principles to help users make informed choices.
 
@@ -16,6 +16,7 @@ To run the application, execute the following command:
 
 ```bash
 python app.py
+```
 
 The app is built using flask so this command Runs the app in Development mode. It will run on a local server [http://localhost:5000](http://localhost:5000) you can view it in the browser. The page will reload if you make edits.
 
