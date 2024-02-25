@@ -12,9 +12,10 @@
 
 ## Running The App
 
-In the project directory, you can run:
+To run the application, execute the following command:
 
-### python app.py
+```bash
+python app.py
 
 The app is built using flask so this command Runs the app in Development mode. It will run on a local server [http://localhost:5000](http://localhost:5000) you can view it in the browser. The page will reload if you make edits.
 
