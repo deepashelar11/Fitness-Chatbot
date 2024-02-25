@@ -4,11 +4,11 @@
 
 **Features:**
 
-**User Input:** Allow users to input their personal details including age, weight, height, gender, activity level, dietary preferences, and fitness goals.
-**Personalized Recommendations:** Provide personalized workout plans and diet recommendations tailored to the user's profile and goals.
-**Interactive Interface:** Create an interactive chat interface where users can communicate with the chatbot in a conversational manner.
-**Dynamic Responses:** Generate dynamic responses based on user queries and inputs, adjusting recommendations as needed.
-**Educational Content:** Offer educational content about nutrition, exercise techniques, and fitness principles to help users make informed choices.
+- **User Input:** Allow users to input their personal details including age, weight, height, gender, activity level, dietary preferences, and fitness goals.
+- **Personalized Recommendations:** Provide personalized workout plans and diet recommendations tailored to the user's profile and goals.
+- **Interactive Interface:** Create an interactive chat interface where users can communicate with the chatbot in a conversational manner.
+- **Dynamic Responses:** Generate dynamic responses based on user queries and inputs, adjusting recommendations as needed.
+- **Educational Content:** Offer educational content about nutrition, exercise techniques, and fitness principles to help users make informed choices.
 
 ## Running The App
 
@@ -20,10 +20,10 @@ The app is built using flask so this command Runs the app in Development mode. I
 
 ## Tech Stack
 
-**OpenAI API:** Utilize the OpenAI API for natural language processing and conversational capabilities.
-**Flask:** Develop the backend server using Flask, a lightweight web framework for Python.
-**Python:** Use Python programming language for both backend and frontend development.
-**HTML/CSS/Jinja Framework:** Develop the frontend interface using HTML, CSS, and Jinja Framework to create a user-friendly chat interface.
+- **OpenAI API:** Utilize the OpenAI API for natural language processing and conversational capabilities.
+- **Flask:** Develop the backend server using Flask, a lightweight web framework for Python.
+- **Python:** Use Python programming language for both backend and frontend development.
+- **HTML/CSS/Jinja Framework:** Develop the frontend interface using HTML, CSS, and Jinja Framework to create a user-friendly chat interface.
 
 ## Author
 
